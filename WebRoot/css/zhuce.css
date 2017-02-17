@@ -1,0 +1,172 @@
+.cl:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.cl{
+	zoom:1;
+}
+.fl{
+	float: left;
+}
+
+.div{
+	width: 646px;
+	height: 608px;
+	margin: 0 auto;
+	position: relative;
+	background-image: url("../img/back.jpg");
+}
+.div1{
+	width: 605px;
+	height: 30px;
+	margin-left: 14px;
+	margin-top: 0px;
+	position: relative;
+	border-bottom: 1px solid #dbe0e3;
+}
+.div1-1{
+	width: 3px;
+	height: 25px;
+	background: #59afe0;
+	position: absolute;
+	left: 0;top: 0;
+}
+.div1 .div1-2{
+	position: absolute;
+	top: 4px;
+	left: 9px;
+	font-size: 	18px;
+	color: #ffffff;
+}
+.div2{
+	position: relative;
+	margin-top: 20px;
+	width: 605px;
+	height: 36px;
+}
+.div2-1{
+	position: absolute;
+	font-size: 14px;
+	left: 103px;
+	top: 10px;
+	color: #ffffff;
+}
+.text1{
+	width: 298px;
+	height: 32px;
+	border: 2px solid #629ff8;
+	position: absolute;
+	top: 0;
+	left: 139px;
+}
+.div2-2{
+	font-size: 12px;
+	color: #ffffff;
+	position: absolute;
+	top: 12px;
+	left: 452px;
+}
+.div3{
+	width: 605px;
+	height: 36px;
+	position: relative;
+	margin-top: 15px;
+}
+.div3-1{
+	font-size: 14px;
+	position: absolute;
+	left: 102px;
+	top: 10px;
+	color: #ffffff;
+}
+.pwd1{
+	width: 298px;
+	height: 32px;
+	border: 2px solid #629ff8;
+	position: absolute;
+	top: 0;
+	left: 139px;
+}
+.div4{
+	width: 605px;
+	height: 36px;
+	position: relative;
+	margin-top: 15px;
+}
+.div4-1{
+	font-size: 14px;
+	position: absolute;
+	top: 10px;
+	left: 74px;
+	color: #ffffff;
+}
+.pwd2{
+	width: 298px;
+	height: 32px;
+	border: 2px solid #629ff8;
+	position: absolute;
+	top: 0;
+	left: 139px;
+}
+.div5{
+	width: 605px;
+	height: 36px;
+	position: relative;
+	margin-top: 15px;
+}
+.div5-1{
+	font-size: 14px;
+	position: absolute;
+	top: 10px;
+	left: 102px;
+	color: #ffffff;
+}
+.div5-2{
+	position: absolute;
+	left: 140px;
+	top: 8px;
+	color: #ffffff;
+}
+
+.div8{
+	width: 605px;
+	height: 36px;
+	position: relative;
+	
+}
+.div8-1{
+	position: absolute;
+	top: 10px;
+	left: 74px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.text2{
+	width: 298px;
+	height: 32px;
+	border: 2px solid #629ff8;
+	position: absolute;
+	top: 0;
+	left: 139px;
+}
+
+.div11{
+	width: 605px;
+	height: 52px;
+	position: relative;
+}
+.but{
+	width: 306px;
+	height: 52px;
+	position: absolute;
+	background: #69b946;
+	color: #ffffff;
+	font-size: 23px;
+	left: 140px;
+	top: 40px;
+	border: 2px solid #69b946;
+}
+
+
+

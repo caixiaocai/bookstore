@@ -1,0 +1,336 @@
+/*=======cssreset======================*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td { margin:0; padding:0; }
+body { background:#fff; color:#696969; font-size:12px; font-family:"����" ; }
+
+h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
+ em, strong { font-style:normal; font-weight:normal;}
+a { color:#696969; text-decoration:none; }
+a:hover { text-decoration:underline; }
+img { border:none; vertical-align: middle;}
+ol,ul,li { list-style:none; }
+
+html {overflow-y: scroll;}
+
+.cl:after {content: "."; display: block; height:0; clear:both; visibility: hidden;}
+.cl { *zoom:1; }
+.fl{float: left;}
+.fr{
+	float: right;
+}
+
+/*=======cssreset======================*/
+/*===========����====================*/
+.body{
+	width: 1200px;
+	margin: 3px auto 0;
+}
+/*===========����====================*/
+/*===========����================*/
+.div1{
+	height: 20px;
+	width: 1200px;
+	position: relative;
+	background: #f5f5f5;
+
+}
+.div1-1{
+	position: absolute;
+	top: 4px;
+	left: 3px;
+}
+.div1-2{
+	position: absolute;
+	top: 0;
+	left: 39px;
+}
+.div1-3{
+	width: 699px;
+	height: 20px;
+	position: absolute;
+	top: 0;
+	left: 501px;
+}
+.div1-a1{
+	color: #ff2832;
+}
+.ul1{
+	position: relative;
+}
+.ul1-li1{
+	position: absolute;
+	top: 4px;
+	left: -30px;
+}
+.ul1-li2{
+	position: absolute;
+	left: 50px;
+	top: 4px;
+}
+.ul1-li3{
+	position: absolute;
+	left: 124px;
+	top: 4px;
+}
+
+.ul1-li4{
+	width: 75px;
+	position: absolute;
+	top: 4px;
+	left: 177px;
+}
+.ul1-li5{
+	position: absolute;
+	left: 252px;
+	top: 0;
+}
+.ul1-li6{
+	position: absolute;
+	left: 336px;top: 0;
+}
+.ul1-li7{
+	position: absolute;
+	top: 4px;
+	left: 425px;
+}
+.ul1-li8{
+	position: absolute;
+	top: 0;
+	left: 503px;
+}
+.div1-3-1-2{
+	margin-top: 4px;
+	margin-left: 5px;
+}
+
+
+/*===========������================*/
+/*====================��һ����========================*/
+.ul2 a{
+	display: block;
+	float: left;
+	color: #969696;
+}
+.div2{
+	width: 1200px;
+	height: 100px;
+	position: relative;
+}
+.div2-text{
+	width: 514px;
+	height: 36px;
+	border: 2px solid #ff2832;
+}
+.div2-but{
+	height: 40px;
+	width: 47px;
+	background: #ff2832;
+	border: #ff2832;
+	color: #ffffff;
+	font-size: 16px;
+}
+.div2-1{
+	position: absolute;
+	top: 20px;
+	left: 0;
+}
+.div2-2{
+	position: absolute;
+	top: 20px;
+	left: 362px;
+}
+.div2-3{
+	position: absolute;
+	top: 20px;
+	left: 1001px;
+}
+.div2-2-top{
+	position: relative;
+}
+.div2-2-top a{
+	display: block;
+	position: absolute;
+	left: 518px;
+	top: 0;
+}
+.ul2 li{
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top: 5px;
+}
+.div2-3-1{
+	background: #ff2832;
+	color: #ffffff;
+	position: relative;
+	width: 90px;
+	height: 40px;
+	font-size: 12px;
+}
+.div2-3-2{
+	width: 84px;
+	height: 36px;
+	background: #f6f6f6;
+	border: 2px solid #dcdcdc;
+	color: #646464;
+	font-size: 12px;
+}
+.div2-3-1-1{
+	position: absolute;
+	top: 8px;
+	left: 7px;
+}
+.div2-3-1-2{
+	position: absolute;
+	top: 15px;
+	left: 37px;
+}
+.div2-3-1-2 a{
+	color: #ffffff;
+}
+.div2-3-2-1{
+	margin-top: 13px;
+	margin-left: 13px;
+}
+/*====================��һ������========================*/
+/*===================�ڶ�����===================*/
+.div3{
+	position: relative;
+	height: 40px;
+	width: 1200px;
+	border-bottom: 3px solid #ff2832;
+}
+.div3-1-se{
+	height: 40px;
+	width: 200px;
+	background: #ff2832;
+	color: #ffffff;
+	font-size: 16px;
+	font-family: "����";
+	border: 1px solid #ff2832;
+}
+.div3 div a{
+	color: #000000;
+	font-size: 16px;
+	font-family: "����"��
+}
+.div3 div a:hover{
+	color: #ff2832;
+}
+.div3-2{
+	position: absolute;
+	left: 232px;
+	top: 12px;
+}
+.div3-3{
+	position: absolute;
+	left: 308px;
+	top: 12px;
+}
+.div3-4{
+	position: absolute;
+	top: 12px;
+	left: 368px;
+}
+.div3-5{
+	position: absolute;
+	top: 12px;
+	left: 444px;
+}
+.div3-6{
+	position: absolute;
+	top: 12px;
+	left: 537px;
+}
+
+
+/*===================�ڶ�������===================*/
+/*=====================�����========================*/
+.div4{
+	height: 31px;
+	width: 1200px;
+	background: #f5f5f5;
+}
+.div4 div{
+	margin-left: 14px;
+	margin-top: 9px;
+	font-size: 12px;
+	border-right: 1px solid #dcdcdc;
+	color: #646464;
+	padding-right: 15px;
+}
+/*=====================�������========================*/
+/*=====================���Ĳ���=====================*/
+.div5{
+	height: 91px;
+	width: 1200px;
+	position: relative;
+}
+.div5-1{
+	position: absolute;
+	top: 15px;
+	left: 0;
+}
+/*=====================���Ĳ���=====================*/
+.div6{
+	width:1320px;
+}
+.myself{
+	width:1320px;
+}
+.self{
+	color:black;
+	font-size: 15px;
+	font-family: "黑体";
+}
+.mon1 a:hover{
+	color: #ff8400;
+}
+.uname,.mon1{
+	width:200px;
+	color:black;
+	border:3px solid #ff2832;
+}
+.uphone{
+	width:200px;
+	color:black;
+	border-top: 3px solid #ff2832;
+	border-bottom: 3px solid #ff2832;
+}
+.order{
+	width:1100px;
+}
+.box{
+	width:1100px;
+}
+.obname,.obnum,.obadd,.obpho,.obmon,.obqua,.obper{
+	height:31px;
+	width:150px;
+	color:black;
+	border-top: 3px solid #ff2832;
+	border-bottom: 3px solid #ff2832;
+	border-right: 3px solid #ff2832;
+}
+.obname{
+	border-left: 3px solid #ff2832;
+}
+.order{
+	color:black;
+	font-size: 15px;
+	font-family: "黑体";
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

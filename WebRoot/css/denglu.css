@@ -1,0 +1,110 @@
+/*=======cssreset======================*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td { margin:0; padding:0; }
+body { background:#fff; color:#696969; font-size:12px; font-family:"宋体" ; }
+
+h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
+ em, strong { font-style:normal; font-weight:normal;}
+a { color:#696969; text-decoration:none; }
+a:hover { text-decoration:underline; }
+img { border:none; vertical-align: middle;}
+ol,ul,li { list-style:none; }
+
+html {overflow-y: scroll;}
+
+.cl:after {content: "."; display: block; height:0; clear:both; visibility: hidden;}
+.cl { *zoom:1; }
+.fl{float: left;}
+.fr{
+	float: right;
+}
+
+/*=======cssreset======================*/
+
+/*=============第一部分===================*/
+.div{
+	width: 750px;
+	margin: 20px auto;
+	position: relative;
+}
+.div-1{
+	position: absolute;
+	left: 80px;
+}
+.div-2-1{
+	position: absolute;
+	top: 88px;
+}
+.div-2-2{
+	width: 385px;
+	height: 171px;
+	position: absolute;
+	left: 280px;
+	top: 201px;
+}
+.div-2-2-1{
+	font-size: 16px;
+	font-family: "黑体";
+	color: #d9382e;
+	font-weight: bold;
+}
+.div2-text{
+	width: 258px;
+	height: 40px;
+	border: 1px solid #dddddd;
+	color: #999999;
+	font-size: 15px;
+}
+.div2-pwd{
+	width: 258px;
+	height: 40px;
+	border: 1px solid #dddddd;
+}
+.div2-but{
+	width: 298px;
+	height: 40px;
+	border:1px solid #ff4400;
+	background: #ff4400;
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff;
+}
+.div-2-2-1{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.div-2-2-2{
+	margin-top: 5px;
+	margin-left:40px;
+}
+.div-2-2-3{
+	margin-top: 5px;
+	margin-left:40px;
+}
+.div-2-2-4{
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+.er{
+	color:red;
+	font-size:14px;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
