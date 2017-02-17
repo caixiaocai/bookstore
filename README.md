@@ -28,6 +28,17 @@ BookStore是基于javaee的一个在线书店网站，
 eclipse，myeclipse，mysql
 
 #效果
+![主页](resource/主页.png)
+
+![支付系统](resource/支付.png)
+
+![个人中心](resource/个人中心.png)
+
+![购物车](resource/购物车.png)
+
+![图书展示](resource/图书展示.png)
+
+![用户管理](resource/用户管理.png)
 
 #如何贡献代码
 欢迎贡献代码:-)
